@@ -6,7 +6,7 @@ Passionate web developer specializing in frontend development with expertise in 
 * 🌍  I'm based in Bhavnagar-Gujarat-India
 * 🖥️  See my portfolio at [priyrajsinh.com](http://priyrajsinh.com)
 * ✉️  You can contact me at [priyrajsinh03@gmail.com](mailto:priyrajsinh03@gmail.com)
-* 🧠  I'm learning Astro (JS) - Framer - Node.js
+* 🧠  I'm learning Python - Numpy - Pandas
 * 🤝  I'm open to collaborating on research paper implementation and projects
 
 ### Skills
