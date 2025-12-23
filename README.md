@@ -64,10 +64,5 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
     </td>
   </tr>
 </table>
-
 <br/>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Priyrajsinh&theme=github_dark&hide_border=true" />
-</p>
 
