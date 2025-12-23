@@ -14,7 +14,7 @@ Model evaluation · Feature pipelines · Experimentation · Research implementat
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
 ### Socials
-<a #####ADD YOUR URL######" target="_blank" rel="noreferrer" style="margin-right:16px;">
+<a " target="_blank" rel="noreferrer" style="margin-right:16px;">
   <img
     src="https://img.icons8.com/?size=100&id=111593&format=png&color=ffffff"
     width="45"
