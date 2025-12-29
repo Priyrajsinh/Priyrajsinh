@@ -14,7 +14,7 @@ Model evaluation · Feature pipelines · Experimentation · Research implementat
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
 ### Socials
-<a href="[(https://www.instagram.com/priyrajsinh_3/)]" target="_blank" rel="noreferrer" style="margin-right:16px;">
+<a href="https://www.instagram.com/priyrajsinh_3/" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
