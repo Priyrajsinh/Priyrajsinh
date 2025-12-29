@@ -28,7 +28,7 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" alt="LinkedIn" />
   </picture>
 </a>
-<a href="https://medium.com/@https://medium.com/@priyrajsinh03" target="_blank" rel="noreferrer" style="margin-right:16px;">
+<a href="https://medium.com/@priyrajsinh03" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
