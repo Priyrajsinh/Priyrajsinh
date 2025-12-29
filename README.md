@@ -43,16 +43,14 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyrajsinh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyrajsinh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
     </td>
     <td width="20"></td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Priyrajsinh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
-      <br/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Priyrajsinh&theme=github_dark&hide_border=true" />
-    </td>
+      ![](https://github-readme-stats.vercel.app/api?username=Priyrajsinh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
   </tr>
 </table>
+
 
 <br/>
 
