@@ -38,22 +38,5 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Priyrajsinh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### Stats
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyrajsinh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <br/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Priyrajsinh&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
-
 <br/>
 
