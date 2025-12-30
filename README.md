@@ -37,6 +37,6 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 </a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Priyrajsinh&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyrajsinhi&label=Profile%20views&color=0e75b6&style=flat" alt="Priyrajsinh" /> </p>
 <br/>
 
